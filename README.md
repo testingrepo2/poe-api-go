@@ -2,7 +2,7 @@
 https://github.com/ading2210/poe-api 的golang版本
 
 # Notice
-在 https://github.com/lwydyby/poe-api, 在此基础上进行了一些修改，并修复了一些bug  
+在 https://github.com/lwydyby/poe-api, 在此基础上进行了一些修改，并修复了一些bug 
 
 # Installation
 
