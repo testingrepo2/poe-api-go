@@ -7,7 +7,7 @@ https://github.com/ading2210/poe-api 的golang版本
 # Installation
 
 ```bash
-go get github.com/Calcium-Ion/poe-api-go
+go get github.com/Calcium-Ion/poe-api-go 
 ```
 
 ```golang
